@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=loan-issuance
+%uri=loan-issuance
+
+init_schema 2021-04-14T06:39:55Z Kevin Tigravictor <kevin.tigravictor@traveloka.com> # Initialize schema for loan issuance domain
